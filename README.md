@@ -10,20 +10,17 @@
 
 🎓 **Student at McGill University** studying **Software Engineering**.  
 
----
-
 ### 📜 Technical Skills  
 - 💻 **Languages:** C, Java, Python, Shell Scripting  
 - ⚙️ **Tools:** Git, Makefile, Valgrind, GDB  
 - 💾 **Concepts:** Process Scheduling, Operating Systems, Memory Management, Synchronization  
 
----
 
 ### 💬 Let's Connect  
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
 - 💻 GitHub: [Your GitHub](https://github.com/yourusername)  
 - 📧 Email: [Your Email]  
 
----
+
 
 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds  
