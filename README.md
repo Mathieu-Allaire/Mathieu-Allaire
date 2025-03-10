@@ -18,7 +18,7 @@
 ## 💬 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/mathieu-allaire/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="20"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="20">
   </a>
 </p>
 
