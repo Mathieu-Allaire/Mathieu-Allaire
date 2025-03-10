@@ -2,7 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Kugile&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mathieu+Allaire!;&color=003366" />
 </h1>
 
-🎓 **Student at McGill University** studying **Software Engineering**.
+🎓 **Student at McGill University** studying **Software Engineering** graduating in **Fall 2026**.
+
+💼 **Looking for 2026 summer internship**
+
+## Technical Experience:
+- Backend Developer at Intact Insurance
+- Software Developer at Pratt & Whitney Canada
+- Software Analyst at Pratt & Whitney Canada
 
 ## 📜 Technical Skills
 - 💻 **Languages:** Python, Java, JavaScript, OCaml, C, VBA, Bash, SQL, HTML & CSS
