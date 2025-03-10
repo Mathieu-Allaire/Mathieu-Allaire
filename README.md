@@ -22,6 +22,6 @@
   </a> &nbsp; 
 </p>
 
-![Alt text](https://www.postermywall.com/index.php/posterbuilder/load/be457cbed2a83f4ea6eb9acdae1e9194)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
