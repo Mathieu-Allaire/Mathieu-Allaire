@@ -21,7 +21,7 @@
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> 
   </a> &nbsp; 
 </p>
-![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ## 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
