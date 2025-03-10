@@ -5,13 +5,11 @@
 🎓 **Student at McGill University** studying **Software Engineering**.
 
 ## 📜 Technical Skills
-- 💻 **Languages:** C, Java, Python, Shell Scripting
-- ⚙️ **Tools:** Git, Makefile, Valgrind, GDB
-- 💾 **Concepts:** Process Scheduling, Operating Systems, Memory Management, Synchronization
+- 💻 **Languages:** Python, Java, JavaScript, OCaml, C, VBA, Bash, SQL, HTML & CSS
+- ⚙️ **Tools:** Git, Spring, React, Express, Vue, Scikit-learn, TensorFlow, Node.js
 
 ## 💬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathieu-allaire/)
+- 📧 [Email](mailto:mathieu.allaire@hotmail.com)
 
 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
