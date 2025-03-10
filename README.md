@@ -22,8 +22,4 @@
   </a>
 </p>
 
-## 🎬 Project Demo
-[![Watch the video](https://img.youtube.com/vi/QiOCUYod4Eg/0.jpg)](https://www.youtube.com/watch?v=QiOCUYod4Eg)
-
-
 ## 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
