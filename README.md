@@ -9,7 +9,15 @@
 - ⚙️ **Tools:** Git, Spring, React, Express, Vue, Scikit-learn, TensorFlow, Node.js
 
 ## 💬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mathieu-allaire/)
+-  [LinkedIn](https://www.linkedin.com/in/mathieu-allaire/)
 - 📧 [Email](mailto:mathieu.allaire@hotmail.com)
 
 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
