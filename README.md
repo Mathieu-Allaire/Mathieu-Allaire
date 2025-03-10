@@ -14,10 +14,10 @@
 
 💡 **"Talk is cheap. Show me the code."** – Linus Torvalds
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/mathieu-allaire/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  <a href="(mailto:mathieu.allaire@hotmail.com)" rel="nofollow noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/17/643/png-clipart-iphone-computer-icons-email-email-miscellaneous-blue-thumbnail.png" alt="email"> Email
   </a>
 </p>
